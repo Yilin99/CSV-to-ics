@@ -6,3 +6,4 @@
 - Requirements: requirements.txt
 
 Run the notebook to convert your CSV to .ics.
+Please modify the file path and run it
